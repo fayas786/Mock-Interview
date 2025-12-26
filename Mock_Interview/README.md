@@ -153,7 +153,7 @@ A: I focus on query optimization, proper indexing, and using database connection
 
 ## Author
 
-Abdul AI
+fayas786
 
 ## Contact
 
@@ -163,5 +163,6 @@ For questions, suggestions, or contributions, please reach out via:
 - LinkedIn: [your-linkedin-profile]
 
 ---
+
 
 *This project is for educational and preparation purposes. Always prepare genuine answers for actual interviews.*
